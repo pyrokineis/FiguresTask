@@ -1,0 +1,9 @@
+Таблицы:
+Product (ID, Name), 
+Category (ID, Name), 
+ProductCategories (ID, ProductID, CategoryID)
+
+
+select Product.Name, Category.Name from Product 
+left join ProductCategories on Product.ID=ProductId 
+left join Category on Category.ID=CategoryId
