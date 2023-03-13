@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresTest", "FiguresTest\FiguresTest.csproj", "{37EAAFF9-CC3D-49F5-8C23-7DEAF91D9091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresUnitTests", "FiguresUnitTests\FiguresUnitTests.csproj", "{C790ACBC-291E-45F5-ADC1-20A3916C0E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFiguresTest", "ConsoleFiguresTest\ConsoleFiguresTest.csproj", "{7B550DB4-35AB-448E-AA9C-3CBDC73D64CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37EAAFF9-CC3D-49F5-8C23-7DEAF91D9091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EAAFF9-CC3D-49F5-8C23-7DEAF91D9091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EAAFF9-CC3D-49F5-8C23-7DEAF91D9091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EAAFF9-CC3D-49F5-8C23-7DEAF91D9091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C790ACBC-291E-45F5-ADC1-20A3916C0E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C790ACBC-291E-45F5-ADC1-20A3916C0E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C790ACBC-291E-45F5-ADC1-20A3916C0E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C790ACBC-291E-45F5-ADC1-20A3916C0E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B550DB4-35AB-448E-AA9C-3CBDC73D64CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B550DB4-35AB-448E-AA9C-3CBDC73D64CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B550DB4-35AB-448E-AA9C-3CBDC73D64CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B550DB4-35AB-448E-AA9C-3CBDC73D64CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

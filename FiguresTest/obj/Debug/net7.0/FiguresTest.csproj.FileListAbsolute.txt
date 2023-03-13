@@ -1,0 +1,12 @@
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\bin\Debug\net7.0\FiguresTest.deps.json
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\bin\Debug\net7.0\FiguresTest.dll
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\bin\Debug\net7.0\FiguresTest.pdb
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\FiguresTest.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\FiguresTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\FiguresTest.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\FiguresTest.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\FiguresTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\FiguresTest.dll
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\refint\FiguresTest.dll
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\FiguresTest.pdb
+C:\Users\Admin\RiderProjects\FiguresTest\FiguresTest\obj\Debug\net7.0\ref\FiguresTest.dll
